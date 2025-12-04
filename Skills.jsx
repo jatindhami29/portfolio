@@ -1,0 +1,1 @@
+export default function Skills(){return(<section className="page-container fadeIn"><h2>Skills</h2><ul><li>Frontend: HTML, CSS, JS, React</li><li>Backend: Node.js, PHP</li><li>Database: MySQL, MongoDB</li><li>Tools: Git, github</li><li>AI: Python, Scikit-learn</li></ul></section>);}

@@ -1,0 +1,1 @@
+export default function About(){return(<section className="page-container fadeIn"><h2>About Me</h2><p>I am a B.Tech CSE student passionate about Full Stack Development, ML, and Web Security.</p></section>);}

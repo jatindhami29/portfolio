@@ -1,0 +1,1 @@
+export default function Home(){return(<section className="hero fadeIn"><h1>Hello, I'm <span>Jatin Dhami</span></h1><p>B.Tech CSE | Full Stack Developer | AI & Security Enthusiast</p><a href="/projects" className="btn">View My Work</a></section>);}

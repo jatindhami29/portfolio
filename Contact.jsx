@@ -1,0 +1,1 @@
+export default function Contact(){return(<section className="page-container fadeIn"><h2>Contact:9389404946</h2><p>Email: strongrover2173@gmail.com</p><p>GitHub:https://github.com/jatindhami29</p><p>LinkedIn: linkedin.com/in/jatin-dhami</p></section>);}
